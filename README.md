@@ -2,8 +2,8 @@
 
 ## Identitas
 
-- Nama: **[Isi nama Anda]**
-- NIM: **[Isi NIM Anda]**
+- Nama: Bryant Tinambunan
+- NIM: 4241250015
 - Mata kuliah: Pemrograman Mobile
 
 ## Menjalankan program
